@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<roupas>
+    <moda>
+        <id>1</id>
+        <nome>vestido azul ou rosa</nome>
+        <preço>12000</preço>
+        <frete>20% de desconto</frete>
+    </moda>
+    <moda>
+        <id>2</id>
+        <nome>macação azul</nome>
+        <preço>18000</preço>
+        <frete>10% de desconto</frete>
+    </moda>
+    <moda>
+        <id>3</id>
+        <nome>vestido de bolinhas</nome>
+        <preço>9500</preço>
+        <frete>5% de desconto</frete>
+    </moda>
+    <moda>
+        <id>4</id>
+        <nome>vestido longo</nome>
+        <preço>21000</preço>
+        <frete>15% de desconto</frete>
+    </moda>
+    <moda>
+        <id>5</id>
+        <nome>conjunto casual</nome>
+        <preço>13500</preço>
+        <frete>25% de desconto</frete>
+    </moda>
+    <moda>
+        <id>6</id>
+        <nome>conjunto florido</nome>
+        <preço>16000</preço>
+        <frete>8% de desconto</frete>
+    </moda>
+    <moda>
+        <id>7</id>
+        <nome>conjunto vermelho</nome>
+        <preço>24500</preço>
+        <frete>12% de desconto</frete>
+    </moda>
+    <moda>
+        <id>8</id>
+        <nome>saia+cropped</nome>
+        <preço>18500</preço>
+        <frete>20% de desconto</frete>
+    </moda>
+</roupas>

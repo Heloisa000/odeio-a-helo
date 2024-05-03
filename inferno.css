@@ -1,0 +1,59 @@
+
+ .logo{
+     height: 550px;
+     width: 100%;
+     margin: 0 auto; 
+ }
+ 
+ .foto{
+     height: auto;
+     width: 95%;
+     margin: 0 auto;
+     border-radius: 20px;
+     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+ }
+ 
+ .card{
+     background-image: url("transferir.png");
+     width: 300px;
+     text-align: center;
+     font-family: Verdana;
+     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+     display: inline-block;
+     margin: 5px;
+     border-radius: 20px;
+     
+ }
+ .card .nome{
+     font-weight: bold;
+     font-size: 150%;
+ }
+ .rec{
+     font-weight: bold;
+     font-size: 150%;
+ }
+ .titulo{
+     margin: 20%;
+     font-size: 300%;
+     text-align: center;
+     font-family: Impact;
+ }
+ 
+ .berrys{
+     height: auto;
+     width: 10%;
+     margin: 0%;
+ }
+ .procurado{
+     text-align: center;
+     font-family: Impact;
+     font-size: 200%;
+     margin: 0%;
+ }
+ p{
+     margin: 0%;
+ }
+ a {
+     text-decoration: none;
+     text-decoration-color: black;
+ }
